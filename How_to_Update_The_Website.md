@@ -1,6 +1,6 @@
-# Quick Guide to Editing This Page
+# Quick Guide to Editing the MES CoP Website
 
-This page uses **Markdown** and a small amount of **HTML**. You do **not** need to know how to write code to make most updates. Most changes involve editing text or copying an existing table row.
+This page uses the **Markdown** language and a small amount of **HTML**. You do **not** need to know how to write code to make most updates. Most changes involve editing text or copying an existing table row.
 
 ## Common Notation You'll See
 
