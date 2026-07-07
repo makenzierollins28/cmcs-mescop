@@ -118,7 +118,7 @@ Begins one row.
 
 Ends that row.
 
-Think of one `<tr>` as one complete session.
+Think of one `<tr>` as one complete session. If the published webpage looks strange, as if code is like ```</table>``` or similar is appearing, it's often because there's a missing ``` </tr> ``` somewhere on the page. 
 
 ---
 
@@ -221,7 +221,7 @@ Be sure to delete both the opening `<tr>` and closing `</tr>` tags.
 
 ---
 
-## Upcoming CoP sessions
+## Detailed Instructions: How to update "Upcoming CoP sessions" 
 
 <!--
 =========================================================
@@ -315,7 +315,7 @@ Each <td> represents ONE CELL (column) in that row.
 
 ---
 
-## Past CoP sessions
+## Detailed Instructions: How to update "Past CoP sessions"
 
 <!--
 =========================================================
