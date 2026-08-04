@@ -151,7 +151,8 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       AoA and PSR 2.0<br>
     </td>
     <td>
-   <a href="https://cmsgovonline-my.sharepoint.com/:v:/r/personal/mianekee_johnson_cms_hhs_gov/Documents/Recordings/MES%20CoP%20Office%20Hours%20PSR%20%26%20AoA-20260707_180311UTC-Meeting%20Recording.mp4?csf=1&web=1&e=ph7XLn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br> 
+   <a href="https://cmsgovonline-my.sharepoint.com/:v:/r/personal/mianekee_johnson_cms_hhs_gov/Documents/Recordings/MES%20CoP%20Office%20Hours%20PSR%20%26%20AoA-20260707_180311UTC-Meeting%20Recording.mp4?csf=1&web=1&e=ph7XLn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br>
+    <a href="assets/MES CoP Office Hours_ PSR & AoA.docx" target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
     </td>
        </tr>
 </tbody>
