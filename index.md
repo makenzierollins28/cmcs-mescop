@@ -35,12 +35,12 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
   </tr>
      <tr>
-    <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>September 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Agile Oversight Model<br>
+      TBD<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/b40cc45a-c0a8-4a35-a49e-6def96a8f259@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    TBD</a><br> 
     </td>
   </tr>
 </tbody>
@@ -63,7 +63,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       New Medicaid Detailed Budget Table<br>
     </td>
     <td>
-    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQAI_Utb7_OWQKZ035YQHKCAATVtmCD9TQNQERfdejkSMeg">Meeting Recording</a><br> 
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQAI_Utb7_OWQKZ035YQHKCAATVtmCD9TQNQERfdejkSMeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vkLU2A">Meeting Recording</a><br> 
     <a href="assets/MES CoP_ New Medicaid Detailed Budget Table_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
     <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
     <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>  
@@ -75,7 +75,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Operational Report Workbook<br>
     </td>
     <td>
-    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAYqRu7WERVK9PHTA-2lxHns?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GEleiq">Meeting Recording</a><br> 
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAYqRu7WERVK9PHTA-2lxHns?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OnX6vE">Meeting Recording</a><br> 
     <a href="assets/MES CoP Operational Report Workbook_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
     <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">MES COP: Operational Report Workbook (ORW) Slide Deck</a><br>
     </td>
@@ -99,7 +99,18 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQCeOEWCxLnYRazG7uC19deTAXQw1FA6yFqjA1EKPsyk5kI?e=YscYmV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br> 
     <a href="assets/Project Status Report_CoP_6.17.26.pdf" target="_blank" rel="noopener noreferrer">MES COP: Project Status Reports (PSR) Slide Deck</a><br>
     </td>
-    </tr>    
+    </tr> 
+    <tr>
+    <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Agile Oversight Model<br>
+    </td>
+    <td>
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQD6v7yY2nLvTZ27zpqNPnnTAUc_U1R2LuwI4ngWq1S0b_Q?e=PIAQd4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br>
+    <a href="assets/Transcript_8464cadb-b8c1-45b7-b84f-5aed980b0a3b.docx">Meeting Transcript</a><br>
+    <a href="assets/MES Agile Oversight Pilot Deck _CoP-07232026.pptx">MES CoP Agile Oversight Slide Deck</a><br> 
+    </td>
+  </tr>
 </tbody>
 </table>
 
