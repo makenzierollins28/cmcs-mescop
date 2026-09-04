@@ -35,7 +35,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
   </tr>
      <tr>
-    <td>September 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>September 30, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
       TBD<br>
     </td>
@@ -128,7 +128,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
   <tr>
     <td>Wednesday, April 15, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      MDBT 2.0<br>
+      MDBT<br>
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQB6HoKTdepAS4jFkgSJC_i1AX7CTeY5JkJSqG8_Qr_eiwA">Meeting Recording</a><br> 
@@ -138,7 +138,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       <tr>
     <td>Wednesday, May 13, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      ORW 2.0<br>
+      ORW<br>
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQAjIG6hW0vMT7jdAIwVSeYdARGFdfOqHDE75oLPhRyLPV4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Bf9QZd">Meeting Recording</a><br> 
@@ -148,7 +148,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
        <tr>
     <td>Tuesday, July 7, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      AoA and PSR 2.0<br>
+      AoA and PSR<br>
     </td>
     <td>
    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQAVTM8562KsRqyCSaf9q1mpASQTTBtsb9c9BbJ-Tc1Kjd0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oeJTOt">Meeting Recording</a><br>
