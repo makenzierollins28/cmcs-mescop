@@ -37,10 +37,10 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
     <td>September 30, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      TBD<br>
+      APD Templates<br>
     </td>
     <td>
-    TBD</a><br> 
+    <a href="https://events.gcc.teams.microsoft.com/event/a824917e-fe43-4fad-97b3-5830e606bcfc@fbdcedc1-70a9-414b-bfa5-c3063fc3395e?source=copyLinkLegacyShareLinkDialog">Register Here</a><br> 
     </td>
   </tr>
 </tbody>
